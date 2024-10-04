@@ -1,0 +1,3 @@
+"0","flights_data_wide <- flights_data_wide %>%"
+"0","  mutate(airline = na_if(airline, '')) %>% "
+"0","  fill(airline, .direction = c('down'))"

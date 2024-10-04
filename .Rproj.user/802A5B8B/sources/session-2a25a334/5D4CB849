@@ -1,7 +1,7 @@
 {
     "id": "5D4CB849",
-    "path": null,
-    "project_path": null,
+    "path": "~/Desktop/DATA607/DATA607Assignment4/DATA607Assignment4.Rmd",
+    "project_path": "DATA607Assignment4.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
@@ -13,15 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
-        "scrollLine": "0"
+        "cursorPosition": "83,120",
+        "scrollLine": "81",
+        "last_setup_crc32": "2a25a334bb338d19"
     },
     "folds": "",
-    "lastKnownWriteTime": 0,
-    "encoding": "",
+    "lastKnownWriteTime": 1728032155,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1728026081439,
+    "last_content_update": 1728032155116,
     "read_only": false,
     "read_only_alternatives": []
 }

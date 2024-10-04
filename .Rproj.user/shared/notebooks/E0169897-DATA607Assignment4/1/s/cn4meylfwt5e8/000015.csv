@@ -1,0 +1,3 @@
+"0","flights_data_wide <- flights_data_wide %>%"
+"0","  drop_na() %>% "
+"0","  rename(airline = X, status = X.1)"

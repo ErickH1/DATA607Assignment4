@@ -1,0 +1,19 @@
+"0","glimpse(flights_data_wide)"
+"1","Rows: 4"
+"1",""
+"1","
+"
+"1","Columns: 7"
+"1",""
+"1","
+"
+"1","$ airline       [3m[38;5;246m<chr>[39m[23m ""ALASKA"", ""ALASKA"", ""AM WEST"", ""AM WEST""
+$ status        [3m[38;5;246m<chr>[39m[23m ""on time"", ""delayed"", ""on time"", ""delayed""
+$ Los.Angeles   [3m[38;5;246m<int>[39m[23m 497, 62, 694, 117
+$ Phoenix       [3m[38;5;246m<int>[39m[23m 221, 12, 4840, 415
+$ San.Diego     [3m[38;5;246m<int>[39m[23m 212, 20, 383, 65
+$ San.Francisco [3m[38;5;246m<int>[39m[23m 503, 102, 320, 129
+$ Seattle       [3m[38;5;246m<int>[39m[23m 1841, 305, 201, 61"
+"1",""
+"1","
+"

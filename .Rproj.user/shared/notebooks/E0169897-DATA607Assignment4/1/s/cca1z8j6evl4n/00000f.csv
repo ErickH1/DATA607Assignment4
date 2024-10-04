@@ -1,0 +1,2 @@
+"0","ggplot(flights_data_tidy, aes(fill= airline, y = ontime_rate, x = city)) +"
+"0","  geom_bar(position=""dodge"", stat = ""identity"")"
